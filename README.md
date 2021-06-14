@@ -1,7 +1,6 @@
-# Bluepool
-![Alt text](https://www.bluepool.io/static/brand/logo_single1.svg)
+# PoolChiaMon: Red Version
 
-Bluepool is a chia pooling protocol built on top of Chia-Blockchain codebase.   
+PoolChiaMon is a chia pooling protocol built on top of the Chia-Blockchain codebase.   
 It's designed to be efficient, and secure. Here are some of
 the features and benefits:   
 * Very easy to use
@@ -17,7 +16,7 @@ by typing `python3`.
 Install instructions are available in the
 [INSTALL](https://github.com/chiabluepool/bluepool/wiki/Install)
 section of the
-[Bluepool repository wiki](https://github.com/chiabluepool/bluepool/wiki).
+[Bluepool repository wiki](https://github.com/jrogers-dev/chiapoolmon-red/wiki).
 
 ## Running
 Once installed, a
