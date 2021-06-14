@@ -14,12 +14,12 @@ by typing `python3`.
 
 ## Installing
 Install instructions are available in the
-[INSTALL](https://github.com/chiabluepool/bluepool/wiki/Install)
+[INSTALL](https://github.com/jrogers-dev/chiapoolmon_red/wiki/Install)
 section of the
-[Bluepool repository wiki](https://github.com/jrogers-dev/chiapoolmon-red/wiki).
+[PoolChiaMon_Red repository wiki](https://github.com/jrogers-dev/chiapoolmon_red/wiki).
 
 ## Running
 Once installed, a
-[Quick Start Guide](https://github.com/chiabluepool/bluepool/wiki/Quick-start)
+[Quick Start Guide](https://github.com/jrogers-dev/chiapoolmon_red/wiki/Quick-start)
 is available from the repository
-[wiki](https://github.com/chiabluepool/bluepool/wiki).
+[wiki](https://github.com/jrogers-dev/chiapoolmon_red/wiki).
